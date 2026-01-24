@@ -63,6 +63,6 @@ Hands-on: SAS Enterprise Guide · SAP GUI · Joomla
 
 ## 🔗 Connect 
 
-** [![LinkedIn Logo](https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/konstantinos-vourvachis/)**
+[![LinkedIn Logo](https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/konstantinos-vourvachis/)
 
 
