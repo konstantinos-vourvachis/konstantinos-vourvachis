@@ -48,7 +48,7 @@ Hands-on: SAS Enterprise Guide · SAP GUI · Joomla
 **SQL:** MySQL · PostgreSQL · SQLite
 **Data Warehouse Schemas:** Star Schema · Snowflake Schema · Constellation Schema
 **Data Management:** Databases · Data Warehouses · ETL · OLTP · OLAP
-**Tools & Technologies:** Google Colab · Jupyter Notebook · Git · GitHub · Cloud Computing · Visual Studio Code · RStudio · MySQL Workbench · Pentaho, SAS Enterprise Guide · Microsoft Visio, Microsoft Project · PeachTree · SMP · Joomla · WordPress 
+**Tools & Technologies:** Google Colab · Jupyter Notebook · Git · GitHub · Cloud Computing · Visual Studio Code · RStudio · MySQL Workbench · Pentaho · SAS Enterprise Guide · Microsoft Visio · Microsoft Project · PeachTree · SMP · Joomla · WordPress 
 **Visualization & Reporting:** Tableau · Power BI  
 
 **Languages:** Greek · English · German · Dutch
