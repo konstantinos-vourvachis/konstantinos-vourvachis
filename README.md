@@ -30,28 +30,28 @@ I build data pipelines, warehouses, and ML systems for **practical analytics and
 ---
 
 ## 🎓 Education
-**Tilburg University (Netherlands)** — *MSc Data Science and Society (Business track)* *(in progress)*  
+- **Tilburg University (Netherlands)** — *MSc Data Science and Society (Business track)* *(in progress)*  
 Relevant: Data Mining · Data Processing · Machine Learning · Business Intelligence for Data Science *(9.5/10)* · Data Science Regulation & Law *(8.5/10)* · Statistics & Methodology · Programming with R
 
-**The Open University (UK)** — *BSc (Hons) Management Information Systems* (Dual Degree)
+- **The Open University (UK)** — *BSc (Hons) Management Information Systems* (Dual Degree)
 
-**Deree – The American College of Greece (Greece)** — *BSc Management Information Systems*  
+- **Deree – The American College of Greece (Greece)** — *BSc Management Information Systems*  
 Hands-on: SAS Enterprise Guide · SAP GUI · Joomla
 
 ---
 
 ## 🧰 Skills
-**Core:** Python · R · SQL · HTML · JavaScript    
-**ML:** Regression · Feature Engineering · Model Evaluation (MAE) · Hyperparameter Tuning · Handling JSON datasets 
-**Python:** Pandas · NumPy · scikit-learn · Matplotlib · SciPy  
-**R:** tidyverse · dplyr · ggplot2 · tidymodels · glmnet · xgboost  
-**SQL:** MySQL · PostgreSQL · SQLite
-**Data Warehouse Schemas:** Star Schema · Snowflake Schema · Constellation Schema
-**Data Management:** Databases · Data Warehouses · ETL · OLTP · OLAP
-**Tools & Technologies:** Google Colab · Jupyter Notebook · Git · GitHub · Cloud Computing · Visual Studio Code · RStudio · MySQL Workbench · Pentaho · SAS Enterprise Guide · Microsoft Visio · Microsoft Project · PeachTree · SMP · Joomla · WordPress 
-**Visualization & Reporting:** Tableau · Power BI  
+- **Core:** Python · R · SQL · HTML · JavaScript    
+- **ML:** Regression · Feature Engineering · Model Evaluation (MAE) · Hyperparameter Tuning · Handling JSON datasets 
+- **Python:** Pandas · NumPy · scikit-learn · Matplotlib · SciPy  
+- **R:** tidyverse · dplyr · ggplot2 · tidymodels · glmnet · xgboost  
+- **SQL:** MySQL · PostgreSQL · SQLite
+- **Data Warehouse Schemas:** Star Schema · Snowflake Schema · Constellation Schema
+- **Data Management:** Databases · Data Warehouses · ETL · OLTP · OLAP
+- **Tools & Technologies:** Google Colab · Jupyter Notebook · Git · GitHub · Cloud Computing · Visual Studio Code · RStudio · MySQL Workbench · Pentaho · SAS Enterprise Guide · Microsoft Visio · Microsoft Project · PeachTree · SMP · Joomla · WordPress 
+- **Visualization & Reporting:** Tableau · Power BI  
 
-**Languages:** Greek · English · German · Dutch
+- **Languages:** Greek · English · German · Dutch
 
 ---
 
