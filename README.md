@@ -20,11 +20,11 @@ I build data pipelines, warehouses, and ML systems for **practical analytics and
 
 ## 📌 Selected Projects
 
-| Project | What I did | Tools / Tech |
-|---|---|---|
-| **GenAI Customer Feedback Analysis** | Used GPT-2 + structured prompting to extract themes, sentiment, and feature requests from customer reviews; summarized actionable insights | Hugging Face (GPT-2) · Python · Prompting |
+| Project | What I did | Tools / Tech | Link | 
+|---|---|---|---|
+| **GenAI Customer Feedback Analysis** | Used GPT-2 + structured prompting to extract themes, sentiment, and feature requests from customer reviews; summarized actionable insights | Hugging Face (GPT-2) · Python · Prompting | [🔗](https://github.com/konstantinos-vourvachis/prompt-engineering/) | 
 
-- **[GenAI Customer Feedback Analysis](https://github.com/konstantinos-vourvachis/prompt-engineering/)**
+
 
 
 ---
