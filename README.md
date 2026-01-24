@@ -55,8 +55,8 @@ Hands-on: SAS Enterprise Guide · SAP GUI · Joomla
 ---
 
 ## 📜 Certifications
-- **[DataCamp — **Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/13b4e9d64c62ec5a17795603361d54e217ad37b1/)**
-- **[Google — **Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/AR36ZRPN7VTV/)**
+- **[DataCamp — Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/13b4e9d64c62ec5a17795603361d54e217ad37b1/)**
+- **[Google — Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/AR36ZRPN7VTV/)**
 - Codecademy — OpenAI API (Python) · Prompt Engineering · Cloud Computing
 
 ---
