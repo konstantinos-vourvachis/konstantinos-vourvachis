@@ -3,7 +3,6 @@
 **MSc Data Science & Society (Business track) | Data Engineering • BI • Recommender Systems**  
 I build data pipelines, warehouses, and ML systems for **practical analytics and personalization**.
 
-- Currently: **MSc Data Science & Society (Business track) at Tilburg University**
 - Interested in: **ETL/DW, recommender systems, SQL optimization, data privacy**
 
 ---
@@ -30,7 +29,7 @@ I build data pipelines, warehouses, and ML systems for **practical analytics and
 ---
 
 ## 🎓 Education
-- **Tilburg University (Netherlands)** — *MSc Data Science and Society (Business track)* *(in progress)*  
+- **Tilburg University (Netherlands)** — *MSc Data Science and Society (Business track)*  
 Relevant: Data Mining · Data Processing · Machine Learning · Business Intelligence for Data Science *(9.5/10)* · Data Science Regulation & Law *(8.5/10)* · Statistics & Methodology · Programming with R
 
 - **The Open University (UK)** — *BSc (Hons) Management Information Systems* (Dual Degree)
