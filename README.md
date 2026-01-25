@@ -22,6 +22,7 @@ I build data pipelines, warehouses, and ML systems for **practical analytics and
 | Project | What I did | Tools / Tech | Link | 
 |---|---|---|---|
 | **GenAI Customer Feedback Analysis** | Used GPT-2 + structured prompting to extract themes, sentiment, and feature requests from customer reviews; summarized actionable insights | Hugging Face (GPT-2) · Python · Prompting | [🔗](https://github.com/konstantinos-vourvachis/prompt-engineering/) | 
+| Data Warehouse & Recommendation System (Pathé Thuis) | Designed a star-schema Data Warehouse from an OLTP model; built ETL pipelines to populate dimensions + a customer engagement fact table (incl. EngagementScore = (WatchDuration/MovieDuration) × RatingValue); created an SQL VIEW to rank high-rated recommendations (AvgRating ≥ 4); built a Pentaho report for seasonal insights (Top 10 Winter genres by rating + watch duration) | MySQL Workbench · SQL · Pentaho Data Integration (KTR) · Pentaho Report Designer (PRPT) · Dimensional Modeling (Star Schema) | [🔗](https://github.com/konstantinos-vourvachis/data-warehouse-recommender-systems-pathe-thuis-project/) |
 
 
 
